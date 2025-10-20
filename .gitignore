@@ -1,0 +1,4 @@
+# Ignore all downloaded audio (Per IDEA Copyright Policy: "You are not permitted to distribute any of the audio files in the IDEA archive for any purpose"):
+audio/
+audio/*
+audio/**/*
