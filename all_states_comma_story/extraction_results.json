@@ -1,0 +1,146 @@
+{
+  "processed": 23,
+  "successful": 18,
+  "failed": 0,
+  "low_confidence": 5,
+  "files": [
+    {
+      "file": "transcriptions/WhisperTranscription/missouri/missouri-13_whisper.json",
+      "success": true,
+      "output": "Low confidence (0.00) for missouri-13_whisper.json\nFailed to extract comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/north-carolina/north-carolina-10_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from north-carolina-10_whisper.json -> north-carolina-10_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/north-dakota/north-dakota-1_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from north-dakota-1_whisper.json -> north-dakota-1_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/new-mexico/new-mexico-4_whisper.json",
+      "success": true,
+      "output": "Could not find story end in new-mexico-4_whisper.json\nExtracted comma story from new-mexico-4_whisper.json -> new-mexico-4_whisper_comma_story.json (confidence: 0.89)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/oklahoma/oklahoma-9_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from oklahoma-9_whisper.json -> oklahoma-9_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/ohio/ohio-3_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from ohio-3_whisper.json -> ohio-3_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/mississippi/mississippi-9_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from mississippi-9_whisper.json -> mississippi-9_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/new-york/new-york-4_whisper.json",
+      "success": true,
+      "output": "Low confidence (0.00) for new-york-4_whisper.json\nFailed to extract comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/new-hampshire/new-hampshire-1_whisper.json",
+      "success": true,
+      "output": "Low confidence (0.00) for new-hampshire-1_whisper.json\nFailed to extract comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/rhode-island/rhode-island-1_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from rhode-island-1_whisper.json -> rhode-island-1_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/michigan/michigan-15_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from michigan-15_whisper.json -> michigan-15_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/south-dakota/south-dakota-1_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from south-dakota-1_whisper.json -> south-dakota-1_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/south-carolina/south-carolina-9_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from south-carolina-9_whisper.json -> south-carolina-9_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/massachusetts/massachusetts-1_whisper.json",
+      "success": true,
+      "output": "Low confidence (0.00) for massachusetts-1_whisper.json\nFailed to extract comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/montana/montana-2_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from montana-2_whisper.json -> montana-2_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/minnesota/minnesota-9_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from minnesota-9_whisper.json -> minnesota-9_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/maryland/maryland-1_whisper.json",
+      "success": true,
+      "output": "Low confidence (0.00) for maryland-1_whisper.json\nFailed to extract comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/pennsylvania/pennsylvania-5_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from pennsylvania-5_whisper.json -> pennsylvania-5_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/nebraska/nebraska-2_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from nebraska-2_whisper.json -> nebraska-2_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/new-jersey/new-jersey-8_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from new-jersey-8_whisper.json -> new-jersey-8_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/oregon/oregon-4_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from oregon-4_whisper.json -> oregon-4_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/received-pronunciation/received-pronunciation-4_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from received-pronunciation-4_whisper.json -> received-pronunciation-4_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    },
+    {
+      "file": "transcriptions/WhisperTranscription/nevada/nevada-1_whisper.json",
+      "success": true,
+      "output": "Extracted comma story from nevada-1_whisper.json -> nevada-1_whisper_comma_story.json (confidence: 1.00)\nSuccessfully extracted comma story\n",
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "total_files": 16,
+  "analyzed": 16,
+  "errors": 0,
+  "noise_levels": {
+    "very_high": 16,
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "unknown": 0
+  },
+  "recommendations": {
+    "exclude": 16,
+    "review": 0,
+    "acceptable": 0,
+    "good": 0
+  },
+  "multiple_speakers": 16,
+  "files": [
+    {
+      "file": "audio/oklahoma/oklahoma-9.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 299.284857,
+        "size": 2094994
+      },
+      "audio_analysis": {
+        "silence_periods": 10,
+        "silence_ratio": 0.020538907519801485,
+        "short_silence_periods": 7,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-15.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56069,
+        "duration": 281.853429,
+        "size": 1975420
+      },
+      "audio_analysis": {
+        "silence_periods": 163,
+        "silence_ratio": 0.24081088614323762,
+        "short_silence_periods": 104,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-14.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 239.229429,
+        "size": 1674631
+      },
+      "audio_analysis": {
+        "silence_periods": 142,
+        "silence_ratio": 0.20685956659621585,
+        "short_silence_periods": 113,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-8.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 257.593429,
+        "size": 1803154
+      },
+      "audio_analysis": {
+        "silence_periods": 156,
+        "silence_ratio": 0.2620496386963351,
+        "short_silence_periods": 103,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-16.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56074,
+        "duration": 264.142429,
+        "size": 1851443
+      },
+      "audio_analysis": {
+        "silence_periods": 164,
+        "silence_ratio": 0.23739321712680977,
+        "short_silence_periods": 118,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-13.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56138,
+        "duration": 236.766,
+        "size": 1661458
+      },
+      "audio_analysis": {
+        "silence_periods": 147,
+        "silence_ratio": 0.22814090705591103,
+        "short_silence_periods": 111,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-12.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 261.198429,
+        "size": 1828414
+      },
+      "audio_analysis": {
+        "silence_periods": 247,
+        "silence_ratio": 0.42968140133798494,
+        "short_silence_periods": 172,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-10.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 289.515143,
+        "size": 2026606
+      },
+      "audio_analysis": {
+        "silence_periods": 169,
+        "silence_ratio": 0.2248538619618943,
+        "short_silence_periods": 118,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-11.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 385.410571,
+        "size": 2697874
+      },
+      "audio_analysis": {
+        "silence_periods": 235,
+        "silence_ratio": 0.3771582461343539,
+        "short_silence_periods": 117,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 25,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-1.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 299.258714,
+        "size": 2094811
+      },
+      "audio_analysis": {
+        "silence_periods": 165,
+        "silence_ratio": 0.20685775586137237,
+        "short_silence_periods": 118,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-3.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 153.103714,
+        "size": 1071726
+      },
+      "audio_analysis": {
+        "silence_periods": 90,
+        "silence_ratio": 0.20006922235733607,
+        "short_silence_periods": 70,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-2.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 299.258714,
+        "size": 2094811
+      },
+      "audio_analysis": {
+        "silence_periods": 165,
+        "silence_ratio": 0.20685775586137237,
+        "short_silence_periods": 118,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-6.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 298.736286,
+        "size": 2091154
+      },
+      "audio_analysis": {
+        "silence_periods": 173,
+        "silence_ratio": 0.14162514894491207,
+        "short_silence_periods": 160,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-7.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 64000,
+        "duration": 327.288125,
+        "size": 2618305
+      },
+      "audio_analysis": {
+        "silence_periods": 25,
+        "silence_ratio": 0.024240839779934027,
+        "short_silence_periods": 22,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 20,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-5.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 311.510143,
+        "size": 2180571
+      },
+      "audio_analysis": {
+        "silence_periods": 195,
+        "silence_ratio": 0.15787346609769853,
+        "short_silence_periods": 181,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 25,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/oklahoma/oklahoma-4.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128000,
+        "duration": 144.718375,
+        "size": 2315494
+      },
+      "audio_analysis": {
+        "silence_periods": 11,
+        "silence_ratio": 0.029289038105907363,
+        "short_silence_periods": 8,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    }
+  ]
+}

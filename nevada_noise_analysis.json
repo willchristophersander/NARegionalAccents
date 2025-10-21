@@ -1,0 +1,37 @@
+{
+  "total_files": 1,
+  "analyzed": 1,
+  "errors": 0,
+  "noise_levels": {
+    "very_high": 1,
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "unknown": 0
+  },
+  "recommendations": {
+    "exclude": 1,
+    "review": 0,
+    "acceptable": 0,
+    "good": 0
+  },
+  "files": [
+    {
+      "file": "audio/nevada/nevada-1.mp3",
+      "sample_rate": 22050,
+      "channels": 1,
+      "duration": 313.782857,
+      "bitrate": 56000,
+      "noise_analysis": {
+        "rms_level": 0,
+        "peak_level": 0,
+        "dynamic_range": 0,
+        "spectral_centroid": 0,
+        "zero_crossing_rate": 0
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    }
+  ]
+}

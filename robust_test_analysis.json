@@ -1,0 +1,29 @@
+{
+  "total_files": 10,
+  "analyzed": 10,
+  "errors": 0,
+  "noise_levels": {
+    "very_high": 0,
+    "high": 3,
+    "medium": 7,
+    "low": 0,
+    "unknown": 0
+  },
+  "recommendations": {
+    "exclude": 0,
+    "review": 3,
+    "acceptable": 7,
+    "good": 0
+  },
+  "multiple_speakers": 6,
+  "files": [
+    {
+      "file": "all_states_test_audio/sentence_0/oklahoma-9_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 2.980090702947846,
+        "file_size": 21255,
+        "samples": 65711
+      },
+      "audio_analysis": {
+        "rms_energy": 

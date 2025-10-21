@@ -1,0 +1,149 @@
+{
+  "total_speakers": 5,
+  "total_sentences": 23,
+  "sentence_coverage": {
+    "0": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "Well, here's a story for you"
+    },
+    "1": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "Sarah Perry was a veterinary nurse who had been working daily at an old zoo in a deserted district of the territory"
+    },
+    "2": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "so she was very happy to start a new job at a superb private practice in north square near the Duke Street Tower"
+    },
+    "3": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "That area was much nearer for her and more to her liking"
+    },
+    "4": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "Even so, on her first morning, she felt stressed"
+    },
+    "5": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "She ate a bowl of porridge, checked herself in the mirror and washed her face in a hurry"
+    },
+    "6": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "Then she put on a plain yellow dress and a fleece jacket, picked up her kit and headed for work"
+    },
+    "7": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "When she got there, there was a woman with a goose waiting for her"
+    },
+    "8": {
+      "coverage": 0.6,
+      "speakers_count": 3,
+      "reference": "The woman gave Sarah an official letter from the vet"
+    },
+    "9": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "The letter implied that the animal could be suffering from a rare form of foot and mouth disease, which was surprising, because normally you would only expect to see it in a dog or a goat"
+    },
+    "10": {
+      "coverage": 0.8,
+      "speakers_count": 4,
+      "reference": "Sarah was sentimental, so this made her feel sorry for the beautiful bird"
+    },
+    "11": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "Before long, that itchy goose began to strut around the office like a lunatic, which made an unsanitary mess"
+    },
+    "12": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "The goose's owner, Mary Harrison, kept calling, \"Comma, Comma,\" which Sarah thought was an odd choice for a name"
+    },
+    "13": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "Comma was strong and huge, so it would take some force to trap her, but Sarah had a different idea"
+    },
+    "14": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "First she tried gently stroking the goose's lower back with her palm, then singing a tune to her"
+    },
+    "15": {
+      "coverage": 0.4,
+      "speakers_count": 2,
+      "reference": "Finally, she administered ether"
+    },
+    "16": {
+      "coverage": 0.4,
+      "speakers_count": 2,
+      "reference": "Her efforts were not futile"
+    },
+    "17": {
+      "coverage": 1.0,
+      "speakers_count": 5,
+      "reference": "In no time, the goose began to tire, so Sarah was able to hold onto Comma and give her a relaxing bath"
+    },
+    "18": {
+      "coverage": 0.6,
+      "speakers_count": 3,
+      "reference": "Once Sarah had managed to bathe the goose, she wiped her off with a cloth and laid her on her right side"
+    },
+    "19": {
+      "coverage": 0.0,
+      "speakers_count": 0,
+      "reference": "Then Sarah confirmed the vet's diagnosis"
+    },
+    "20": {
+      "coverage": 0.8,
+      "speakers_count": 4,
+      "reference": "Almost immediately, she remembered an effective treatment that required her to measure out a lot of medicine"
+    },
+    "21": {
+      "coverage": 0.8,
+      "speakers_count": 4,
+      "reference": "Sarah warned that this course of treatment might be expensive—either five or six times the cost of penicillin"
+    },
+    "22": {
+      "coverage": 0.0,
+      "speakers_count": 0,
+      "reference": "I can't imagine paying so much"
+    }
+  },
+  "speaker_coverage": {
+    "north-carolina-10_whisper": {
+      "coverage": 0.7391304347826086,
+      "missing_sentences": 6,
+      "confidence": 1.0
+    },
+    "oklahoma-9_whisper": {
+      "coverage": 0.8695652173913043,
+      "missing_sentences": 3,
+      "confidence": 1.0
+    },
+    "mississippi-9_whisper": {
+      "coverage": 0.8695652173913043,
+      "missing_sentences": 3,
+      "confidence": 1.0
+    },
+    "new-mexico-4_whisper": {
+      "coverage": 0.6521739130434783,
+      "missing_sentences": 8,
+      "confidence": 0.894817962361822
+    },
+    "ohio-3_whisper": {
+      "coverage": 0.8695652173913043,
+      "missing_sentences": 3,
+      "confidence": 1.0
+    }
+  },
+  "missing_segments": []
+}

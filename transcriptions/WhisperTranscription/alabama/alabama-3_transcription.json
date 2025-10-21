@@ -1,0 +1,326 @@
+{
+  "audio_file": "/Users/will/Projects/NARegionalAccents/audio/alabama/alabama-3.mp3",
+  "text": "This recording, Alabama 3, is copyright the international dialects of English Archive. Come with me, come with me. Come with me. It's a woman with a goose. Come with me, come with me. Come with me. Come with me, come with me. Come with me. Come with me. Come with me. Come with me. Come with me. Come with me. Come with me. Come with me.",
+  "language": "en",
+  "duration": 0,
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": " This recording, Alabama 3, is copyright the international dialects of English Archive.",
+      "tokens": [
+        50364,
+        639,
+        6613,
+        11,
+        20898,
+        805,
+        11,
+        307,
+        17996,
+        264,
+        5058,
+        24652,
+        82,
+        295,
+        3669,
+        10984,
+        488,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6253243552313911,
+      "compression_ratio": 1.2307692307692308,
+      "no_speech_prob": 0.050085026770830154
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.0,
+      "end": 8.0,
+      "text": " Come with me, come with me.",
+      "tokens": [
+        50664,
+        2492,
+        365,
+        385,
+        11,
+        808,
+        365,
+        385,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6253243552313911,
+      "compression_ratio": 1.2307692307692308,
+      "no_speech_prob": 0.050085026770830154
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.0,
+      "end": 9.0,
+      "text": " Come with me.",
+      "tokens": [
+        50764,
+        2492,
+        365,
+        385,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6253243552313911,
+      "compression_ratio": 1.2307692307692308,
+      "no_speech_prob": 0.050085026770830154
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 32.0,
+      "text": " It's a woman with a goose.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        257,
+        3059,
+        365,
+        257,
+        24717,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5904810211875222,
+      "compression_ratio": 0.8125,
+      "no_speech_prob": 0.27941083908081055
+    },
+    {
+      "id": 4,
+      "seek": 6000,
+      "start": 60.0,
+      "end": 62.0,
+      "text": " Come with me, come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        11,
+        808,
+        365,
+        385,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6819349202242765,
+      "compression_ratio": 1.0384615384615385,
+      "no_speech_prob": 0.614306628704071
+    },
+    {
+      "id": 5,
+      "seek": 9000,
+      "start": 90.0,
+      "end": 92.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5974838393075126,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.5551353693008423
+    },
+    {
+      "id": 6,
+      "seek": 12000,
+      "start": 120.0,
+      "end": 124.0,
+      "text": " Come with me, come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        11,
+        808,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6856281540610574,
+      "compression_ratio": 1.0384615384615385,
+      "no_speech_prob": 0.7322325706481934
+    },
+    {
+      "id": 7,
+      "seek": 15000,
+      "start": 150.0,
+      "end": 154.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46172036443437847,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.602440595626831
+    },
+    {
+      "id": 8,
+      "seek": 18000,
+      "start": 180.0,
+      "end": 184.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.381448541368757,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.8360707759857178
+    },
+    {
+      "id": 9,
+      "seek": 21000,
+      "start": 210.0,
+      "end": 212.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4722423894064767,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.8423417806625366
+    },
+    {
+      "id": 10,
+      "seek": 24000,
+      "start": 240.0,
+      "end": 244.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4104081562587193,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.881475567817688
+    },
+    {
+      "id": 11,
+      "seek": 27000,
+      "start": 270.0,
+      "end": 274.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36655708721705843,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.8399388790130615
+    },
+    {
+      "id": 12,
+      "seek": 30000,
+      "start": 300.0,
+      "end": 304.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.343914406640189,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.8925284743309021
+    },
+    {
+      "id": 13,
+      "seek": 33000,
+      "start": 330.0,
+      "end": 334.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3007785252162388,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.8754862546920776
+    },
+    {
+      "id": 14,
+      "seek": 36000,
+      "start": 360.0,
+      "end": 364.0,
+      "text": " Come with me.",
+      "tokens": [
+        50364,
+        2492,
+        365,
+        385,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24410285268511092,
+      "compression_ratio": 0.6190476190476191,
+      "no_speech_prob": 0.5413224697113037
+    }
+  ],
+  "tokens": [],
+  "processing_time": 16.410340070724487,
+  "model": "whisper-tiny",
+  "transcription_date": "2025-10-21 00:11:08"
+}

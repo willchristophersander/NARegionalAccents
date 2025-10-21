@@ -1,0 +1,546 @@
+{
+  "total_files": 25,
+  "analyzed": 25,
+  "errors": 0,
+  "noise_levels": {
+    "very_high": 25,
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "unknown": 0
+  },
+  "recommendations": {
+    "exclude": 25,
+    "review": 0,
+    "acceptable": 0,
+    "good": 0
+  },
+  "multiple_speakers": 25,
+  "files": [
+    {
+      "file": "audio/michigan/michigan-15.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128029,
+        "duration": 317.288798,
+        "size": 5077785
+      },
+      "audio_analysis": {
+        "silence_periods": 307,
+        "silence_ratio": 0.3158691722863783,
+        "short_silence_periods": 247,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 40,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-14.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 237.165714,
+        "size": 1660185
+      },
+      "audio_analysis": {
+        "silence_periods": 144,
+        "silence_ratio": 0.19793732917060683,
+        "short_silence_periods": 122,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-8.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 446.589429,
+        "size": 3126126
+      },
+      "audio_analysis": {
+        "silence_periods": 419,
+        "silence_ratio": 0.29747084541940627,
+        "short_silence_periods": 331,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 25,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-16.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128033,
+        "duration": 291.6339,
+        "size": 4667349
+      },
+      "audio_analysis": {
+        "silence_periods": 162,
+        "silence_ratio": 0.1841600924995342,
+        "short_silence_periods": 134,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-17.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128024,
+        "duration": 304.815578,
+        "size": 4878000
+      },
+      "audio_analysis": {
+        "silence_periods": 157,
+        "silence_ratio": 0.27599935197537667,
+        "short_silence_periods": 90,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 40,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-9.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 414.693857,
+        "size": 2902857
+      },
+      "audio_analysis": {
+        "silence_periods": 218,
+        "silence_ratio": 0.22287652792503332,
+        "short_silence_periods": 140,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 25,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-13.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 278.700429,
+        "size": 1950903
+      },
+      "audio_analysis": {
+        "silence_periods": 230,
+        "silence_ratio": 0.427090619943036,
+        "short_silence_periods": 156,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-12.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 273.058,
+        "size": 1911406
+      },
+      "audio_analysis": {
+        "silence_periods": 254,
+        "silence_ratio": 0.4281249624621881,
+        "short_silence_periods": 163,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-10.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 384.026143,
+        "size": 2688183
+      },
+      "audio_analysis": {
+        "silence_periods": 216,
+        "silence_ratio": 0.231730689751504,
+        "short_silence_periods": 154,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 25,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-11.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 205.818714,
+        "size": 1440731
+      },
+      "audio_analysis": {
+        "silence_periods": 104,
+        "silence_ratio": 0.22360035249272897,
+        "short_silence_periods": 58,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-2.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 212.715143,
+        "size": 1489006
+      },
+      "audio_analysis": {
+        "silence_periods": 5,
+        "silence_ratio": 0.012813916120677827,
+        "short_silence_periods": 3,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-20.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128028,
+        "duration": 284.122268,
+        "size": 4546977
+      },
+      "audio_analysis": {
+        "silence_periods": 194,
+        "silence_ratio": 0.264023610426762,
+        "short_silence_periods": 132,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-21.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128025,
+        "duration": 383.086485,
+        "size": 6130624
+      },
+      "audio_analysis": {
+        "silence_periods": 291,
+        "silence_ratio": 0.23268827403295095,
+        "short_silence_periods": 236,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 40,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-3.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 198.974714,
+        "size": 1392823
+      },
+      "audio_analysis": {
+        "silence_periods": 115,
+        "silence_ratio": 0.12683386493019488,
+        "short_silence_periods": 108,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-1.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 175.229429,
+        "size": 1226606
+      },
+      "audio_analysis": {
+        "silence_periods": 84,
+        "silence_ratio": 0.09283328201680137,
+        "short_silence_periods": 81,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-23.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128032,
+        "duration": 265.207052,
+        "size": 4244374
+      },
+      "audio_analysis": {
+        "silence_periods": 195,
+        "silence_ratio": 0.26579200842668393,
+        "short_silence_periods": 155,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-22.mp3",
+      "basic_info": {
+        "sample_rate": 48000,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128025,
+        "duration": 309.777313,
+        "size": 4957440
+      },
+      "audio_analysis": {
+        "silence_periods": 156,
+        "silence_ratio": 0.22916629146434514,
+        "short_silence_periods": 99,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 40,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-4.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 164.101286,
+        "size": 1148709
+      },
+      "audio_analysis": {
+        "silence_periods": 59,
+        "silence_ratio": 0.061025591231503175,
+        "short_silence_periods": 58,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-5.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 131.265286,
+        "size": 918857
+      },
+      "audio_analysis": {
+        "silence_periods": 43,
+        "silence_ratio": 0.06666323798662234,
+        "short_silence_periods": 40,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-7.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 167.497143,
+        "size": 1172480
+      },
+      "audio_analysis": {
+        "silence_periods": 5,
+        "silence_ratio": 0.01211866043589773,
+        "short_silence_periods": 4,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-25.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 69329,
+        "duration": 167.159229,
+        "size": 1448636
+      },
+      "audio_analysis": {
+        "silence_periods": 116,
+        "silence_ratio": 0.24222642831165422,
+        "short_silence_periods": 88,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 40,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-19.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128033,
+        "duration": 287.323651,
+        "size": 4598386
+      },
+      "audio_analysis": {
+        "silence_periods": 224,
+        "silence_ratio": 0.2419461389901381,
+        "short_silence_periods": 177,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-18.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128025,
+        "duration": 313.955397,
+        "size": 5024286
+      },
+      "audio_analysis": {
+        "silence_periods": 179,
+        "silence_ratio": 0.18911950731651275,
+        "short_silence_periods": 151,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 40,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-24.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 66220,
+        "duration": 224.396259,
+        "size": 1857446
+      },
+      "audio_analysis": {
+        "silence_periods": 198,
+        "silence_ratio": 0.2916702234327355,
+        "short_silence_periods": 149,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 40,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/michigan/michigan-6.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 245.733857,
+        "size": 1720137
+      },
+      "audio_analysis": {
+        "silence_periods": 5,
+        "silence_ratio": 0.010547520930337215,
+        "short_silence_periods": 4,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    }
+  ]
+}

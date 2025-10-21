@@ -1,0 +1,437 @@
+{
+  "total_files": 16,
+  "analyzed": 16,
+  "errors": 0,
+  "noise_levels": {
+    "very_high": 0,
+    "high": 5,
+    "medium": 11,
+    "low": 0,
+    "unknown": 0
+  },
+  "recommendations": {
+    "exclude": 0,
+    "review": 5,
+    "acceptable": 11,
+    "good": 0
+  },
+  "multiple_speakers": 12,
+  "files": [
+    {
+      "file": "all_states_test_audio/sentence_0/minnesota-9_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 2.405396825396825,
+        "file_size": 17249,
+        "samples": 53039
+      },
+      "audio_analysis": {
+        "rms_db": -25.070608139038086,
+        "peak_db": -7.687442302703857,
+        "dynamic_range": 17.38316583633423,
+        "zero_crossing_rate": 0.1442334885650182
+      },
+      "silence_analysis": {
+        "silence_periods": 1,
+        "silence_ratio": 0.17485246705254623,
+        "short_silence_periods": 1,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": false
+      },
+      "quality_score": 50.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/oklahoma-9_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 8.962131519274376,
+        "file_size": 63129,
+        "samples": 197615
+      },
+      "audio_analysis": {
+        "rms_db": -12.143559455871582,
+        "peak_db": -0.007142804097384214,
+        "dynamic_range": 12.136416651774198,
+        "zero_crossing_rate": 0.09796321129468917
+      },
+      "silence_analysis": {
+        "silence_periods": 1,
+        "silence_ratio": 0.04214761025225818,
+        "short_silence_periods": 1,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": true
+      },
+      "quality_score": 50.0,
+      "noise_level": "high",
+      "recommendation": "REVIEW - High noise, may affect analysis"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/mississippi-9_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 2.992108843537415,
+        "file_size": 48526,
+        "samples": 65976
+      },
+      "audio_analysis": {
+        "rms_db": -22.488611221313477,
+        "peak_db": -3.222343683242798,
+        "dynamic_range": 19.26626753807068,
+        "zero_crossing_rate": 0.11373832908936583
+      },
+      "silence_analysis": {
+        "silence_periods": 1,
+        "silence_ratio": 0.24173942039529525,
+        "short_silence_periods": 0,
+        "multiple_speakers_ratio": 0.0,
+        "multiple_speakers_detected": false,
+        "background_noise_detected": false
+      },
+      "quality_score": 73.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/michigan-15_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 2.992108843537415,
+        "file_size": 48526,
+        "samples": 65976
+      },
+      "audio_analysis": {
+        "rms_db": -26.166015625,
+        "peak_db": -7.790960788726807,
+        "dynamic_range": 18.375054836273193,
+        "zero_crossing_rate": 0.10864556808536438
+      },
+      "silence_analysis": {
+        "silence_periods": 2,
+        "silence_ratio": 0.44129683521280466,
+        "short_silence_periods": 1,
+        "multiple_speakers_ratio": 0.5,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": false
+      },
+      "quality_score": 53.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/rhode-island-1_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 3.2413151927437642,
+        "file_size": 23100,
+        "samples": 71471
+      },
+      "audio_analysis": {
+        "rms_db": -21.86422348022461,
+        "peak_db": -2.942246198654175,
+        "dynamic_range": 18.921977281570435,
+        "zero_crossing_rate": 0.10163562843670859
+      },
+      "silence_analysis": {
+        "silence_periods": 2,
+        "silence_ratio": 0.10008255096472696,
+        "short_silence_periods": 2,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": false
+      },
+      "quality_score": 58.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/new-jersey-8_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 1.8370068027210884,
+        "file_size": 25730,
+        "samples": 40506
+      },
+      "audio_analysis": {
+        "rms_db": -22.301063537597656,
+        "peak_db": -5.441795349121094,
+        "dynamic_range": 16.859268188476562,
+        "zero_crossing_rate": 0.1437811682219918
+      },
+      "silence_analysis": {
+        "silence_periods": 2,
+        "silence_ratio": 0.20720387103145213,
+        "short_silence_periods": 2,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": false
+      },
+      "quality_score": 53.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/nevada-1_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 3.1890702947845804,
+        "file_size": 22718,
+        "samples": 70319
+      },
+      "audio_analysis": {
+        "rms_db": -25.459938049316406,
+        "peak_db": -9.010218620300293,
+        "dynamic_range": 16.449719429016113,
+        "zero_crossing_rate": 0.09508098806865854
+      },
+      "silence_analysis": {
+        "silence_periods": 2,
+        "silence_ratio": 0.2977573628748987,
+        "short_silence_periods": 1,
+        "multiple_speakers_ratio": 0.5,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": false
+      },
+      "quality_score": 58.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/received-pronunciation-4_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 2.49578231292517,
+        "file_size": 23160,
+        "samples": 55032
+      },
+      "audio_analysis": {
+        "rms_db": -17.828357696533203,
+        "peak_db": -2.1486220359802246,
+        "dynamic_range": 15.679735660552979,
+        "zero_crossing_rate": 0.10161360662887048
+      },
+      "silence_analysis": {
+        "silence_periods": 3,
+        "silence_ratio": 0.378997674080535,
+        "short_silence_periods": 2,
+        "multiple_speakers_ratio": 0.6666666666666666,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": false
+      },
+      "quality_score": 58.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/montana-2_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 7.014965986394558,
+        "file_size": 112892,
+        "samples": 154680
+      },
+      "audio_analysis": {
+        "rms_db": -29.444522857666016,
+        "peak_db": -9.50858211517334,
+        "dynamic_range": 19.935940742492676,
+        "zero_crossing_rate": 0.08778769071631756
+      },
+      "silence_analysis": {
+        "silence_periods": 2,
+        "silence_ratio": 0.06858675976208947,
+        "short_silence_periods": 2,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": true
+      },
+      "quality_score": 45.0,
+      "noise_level": "high",
+      "recommendation": "REVIEW - High noise, may affect analysis"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/oregon-4_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 5.578231292517007,
+        "file_size": 89904,
+        "samples": 123000
+      },
+      "audio_analysis": {
+        "rms_db": -20.576154708862305,
+        "peak_db": -5.801513671875,
+        "dynamic_range": 14.774641036987305,
+        "zero_crossing_rate": 0.09099186991869919
+      },
+      "silence_analysis": {
+        "silence_periods": 1,
+        "silence_ratio": 0.02238211382113821,
+        "short_silence_periods": 1,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": true
+      },
+      "quality_score": 50.0,
+      "noise_level": "high",
+      "recommendation": "REVIEW - High noise, may affect analysis"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/ohio-3_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 6.010294784580499,
+        "file_size": 42466,
+        "samples": 132527
+      },
+      "audio_analysis": {
+        "rms_db": -18.127843856811523,
+        "peak_db": -0.5568118095397949,
+        "dynamic_range": 17.57103204727173,
+        "zero_crossing_rate": 0.07573551049974722
+      },
+      "silence_analysis": {
+        "silence_periods": 0,
+        "silence_ratio": 0.0,
+        "short_silence_periods": 0,
+        "multiple_speakers_ratio": 0.0,
+        "multiple_speakers_detected": false,
+        "background_noise_detected": true
+      },
+      "quality_score": 63.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/north-dakota-1_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 8.962131519274376,
+        "file_size": 63129,
+        "samples": 197615
+      },
+      "audio_analysis": {
+        "rms_db": -20.68828773498535,
+        "peak_db": -3.3854124546051025,
+        "dynamic_range": 17.30287528038025,
+        "zero_crossing_rate": 0.11176783138931762
+      },
+      "silence_analysis": {
+        "silence_periods": 1,
+        "silence_ratio": 0.015079826936214355,
+        "short_silence_periods": 1,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": true
+      },
+      "quality_score": 45.0,
+      "noise_level": "high",
+      "recommendation": "REVIEW - High noise, may affect analysis"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/nebraska-2_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 8.962131519274376,
+        "file_size": 63129,
+        "samples": 197615
+      },
+      "audio_analysis": {
+        "rms_db": -16.635835647583008,
+        "peak_db": 0.9696911573410034,
+        "dynamic_range": 17.60552680492401,
+        "zero_crossing_rate": 0.1494370366621967
+      },
+      "silence_analysis": {
+        "silence_periods": 1,
+        "silence_ratio": 0.034840472636186524,
+        "short_silence_periods": 1,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": true
+      },
+      "quality_score": 45.0,
+      "noise_level": "high",
+      "recommendation": "REVIEW - High noise, may affect analysis"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/pennsylvania-5_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 2.980090702947846,
+        "file_size": 21255,
+        "samples": 65711
+      },
+      "audio_analysis": {
+        "rms_db": -18.122657775878906,
+        "peak_db": -0.3972572386264801,
+        "dynamic_range": 17.725400537252426,
+        "zero_crossing_rate": 0.08575428771438572
+      },
+      "silence_analysis": {
+        "silence_periods": 0,
+        "silence_ratio": 0.0,
+        "short_silence_periods": 0,
+        "multiple_speakers_ratio": 0.0,
+        "multiple_speakers_detected": false,
+        "background_noise_detected": true
+      },
+      "quality_score": 68.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/north-carolina-10_whisper.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 6.976825396825397,
+        "file_size": 49232,
+        "samples": 153839
+      },
+      "audio_analysis": {
+        "rms_db": -19.283893585205078,
+        "peak_db": -1.564226746559143,
+        "dynamic_range": 17.719666838645935,
+        "zero_crossing_rate": 0.0642879893915067
+      },
+      "silence_analysis": {
+        "silence_periods": 0,
+        "silence_ratio": 0.0,
+        "short_silence_periods": 0,
+        "multiple_speakers_ratio": 0.0,
+        "multiple_speakers_detected": false,
+        "background_noise_detected": true
+      },
+      "quality_score": 63.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/alaska-3_transcription.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "duration": 2.980090702947846,
+        "file_size": 21255,
+        "samples": 65711
+      },
+      "audio_analysis": {
+        "rms_db": -16.653579711914062,
+        "peak_db": -1.3145126104354858,
+        "dynamic_range": 15.339067101478577,
+        "zero_crossing_rate": 0.06805557669187808
+      },
+      "silence_analysis": {
+        "silence_periods": 1,
+        "silence_ratio": 0.16015583387865046,
+        "short_silence_periods": 1,
+        "multiple_speakers_ratio": 1.0,
+        "multiple_speakers_detected": true,
+        "background_noise_detected": false
+      },
+      "quality_score": 63.0,
+      "noise_level": "medium",
+      "recommendation": "ACCEPTABLE - Moderate noise, usable with caution"
+    }
+  ]
+}

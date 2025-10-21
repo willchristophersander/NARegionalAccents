@@ -1,0 +1,315 @@
+{
+  "total_files": 14,
+  "analyzed": 14,
+  "errors": 0,
+  "noise_levels": {
+    "very_high": 14,
+    "high": 0,
+    "medium": 0,
+    "low": 0,
+    "unknown": 0
+  },
+  "recommendations": {
+    "exclude": 14,
+    "review": 0,
+    "acceptable": 0,
+    "good": 0
+  },
+  "multiple_speakers": 14,
+  "files": [
+    {
+      "file": "audio/mississippi/mississippi-9.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128024,
+        "duration": 275.147166,
+        "size": 4403199
+      },
+      "audio_analysis": {
+        "silence_periods": 231,
+        "silence_ratio": 0.2403398150937168,
+        "short_silence_periods": 188,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-8.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128034,
+        "duration": 213.337392,
+        "size": 3414307
+      },
+      "audio_analysis": {
+        "silence_periods": 166,
+        "silence_ratio": 0.3141147333421987,
+        "short_silence_periods": 119,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-5.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 294.713429,
+        "size": 2063019
+      },
+      "audio_analysis": {
+        "silence_periods": 276,
+        "silence_ratio": 0.305933565042942,
+        "short_silence_periods": 221,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-10.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128033,
+        "duration": 299.441746,
+        "size": 4792319
+      },
+      "audio_analysis": {
+        "silence_periods": 182,
+        "silence_ratio": 0.22153649544910123,
+        "short_silence_periods": 136,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-11.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128039,
+        "duration": 206.643719,
+        "size": 3307310
+      },
+      "audio_analysis": {
+        "silence_periods": 159,
+        "silence_ratio": 0.263601677629505,
+        "short_silence_periods": 114,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-4.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 309.890571,
+        "size": 2169234
+      },
+      "audio_analysis": {
+        "silence_periods": 9,
+        "silence_ratio": 0.012196973234141907,
+        "short_silence_periods": 6,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 10,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-6.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128027,
+        "duration": 244.505646,
+        "size": 3912932
+      },
+      "audio_analysis": {
+        "silence_periods": 198,
+        "silence_ratio": 0.23928238450575404,
+        "short_silence_periods": 167,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-13.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128029,
+        "duration": 271.766576,
+        "size": 4349282
+      },
+      "audio_analysis": {
+        "silence_periods": 206,
+        "silence_ratio": 0.2298828646242348,
+        "short_silence_periods": 162,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-12.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128034,
+        "duration": 253.398254,
+        "size": 4055457
+      },
+      "audio_analysis": {
+        "silence_periods": 431,
+        "silence_ratio": 0.5285622370547192,
+        "short_silence_periods": 348,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-7.mp3",
+      "basic_info": {
+        "sample_rate": 44100,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128047,
+        "duration": 206.603401,
+        "size": 3306892
+      },
+      "audio_analysis": {
+        "silence_periods": 177,
+        "silence_ratio": 0.2704152629123476,
+        "short_silence_periods": 136,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 45,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-3.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 55999,
+        "duration": 180.767286,
+        "size": 1265371
+      },
+      "audio_analysis": {
+        "silence_periods": 93,
+        "silence_ratio": 0.09215163522452811,
+        "short_silence_periods": 91,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-2.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 205.400857,
+        "size": 1437806
+      },
+      "audio_analysis": {
+        "silence_periods": 8,
+        "silence_ratio": 0.019813033204627788,
+        "short_silence_periods": 4,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-14.mp3",
+      "basic_info": {
+        "sample_rate": 16000,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 128049,
+        "duration": 307.356375,
+        "size": 4919616
+      },
+      "audio_analysis": {
+        "silence_periods": 180,
+        "silence_ratio": 0.16840283205448425,
+        "short_silence_periods": 156,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": false
+      },
+      "quality_score": 30,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    },
+    {
+      "file": "audio/mississippi/mississippi-1.mp3",
+      "basic_info": {
+        "sample_rate": 22050,
+        "channels": 1,
+        "codec": "mp3",
+        "bitrate": 56000,
+        "duration": 276.009857,
+        "size": 1932069
+      },
+      "audio_analysis": {
+        "silence_periods": 28,
+        "silence_ratio": 0.03279435777541831,
+        "short_silence_periods": 22,
+        "multiple_speakers_indicator": true,
+        "background_noise_indicator": true
+      },
+      "quality_score": 15,
+      "noise_level": "very_high",
+      "recommendation": "EXCLUDE - Too noisy for accent analysis"
+    }
+  ]
+}

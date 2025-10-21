@@ -1,0 +1,615 @@
+{
+  "total_files": 16,
+  "successful": 16,
+  "errors": 0,
+  "files": [
+    {
+      "file": "all_states_test_audio/sentence_0/minnesota-9_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well here's a story for you.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.5046798099171032,
+        "speech_detection_confidence": 0.5717790424823761,
+        "no_speech_probability": 0.4282209575176239,
+        "segment_count": 1,
+        "avg_segment_length": 2.0
+      },
+      "noise_analysis": {
+        "noise_score": 0.2,
+        "noise_level": "medium",
+        "audio_metrics": {
+          "rms": 35.257675354021195,
+          "peak": 12949.0,
+          "dynamic_range": 51.29965112638225,
+          "silence_ratio": 0.2832125133161847
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": true
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/oklahoma-9_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you. Sarah Perry was a veterinary nurse who had been working daily at an old zoo and a deserted district of the territory.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.21314989195929634,
+        "speech_detection_confidence": 0.9308694303035736,
+        "no_speech_probability": 0.06913056969642639,
+        "segment_count": 1,
+        "avg_segment_length": 9.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 4.042571326306444,
+          "peak": 32749.0,
+          "dynamic_range": 78.17080703929645,
+          "silence_ratio": 0.08777851389518462
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/mississippi-9_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, come and get secure. Well, here...",
+        "language": "en",
+        "segments": 2
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.9105624556541443,
+        "speech_detection_confidence": 0.850951299071312,
+        "no_speech_probability": 0.14904870092868805,
+        "segment_count": 2,
+        "avg_segment_length": 1.8
+      },
+      "noise_analysis": {
+        "noise_score": 0.2,
+        "noise_level": "medium",
+        "audio_metrics": {
+          "rms": 32.635978834852175,
+          "peak": 22367.0,
+          "dynamic_range": 56.71822189877482,
+          "silence_ratio": 0.45786857166729333
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": true
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/michigan-15_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.32384971777598065,
+        "speech_detection_confidence": 0.7379662394523621,
+        "no_speech_probability": 0.26203376054763794,
+        "segment_count": 1,
+        "avg_segment_length": 3.0
+      },
+      "noise_analysis": {
+        "noise_score": 0.3,
+        "noise_level": "medium",
+        "audio_metrics": {
+          "rms": 33.919592692628335,
+          "peak": 13415.0,
+          "dynamic_range": 51.94280096820772,
+          "silence_ratio": 0.5096294439570539
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": true,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/rhode-island-1_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.3411516745885213,
+        "speech_detection_confidence": 0.9475563131272793,
+        "no_speech_probability": 0.05244368687272072,
+        "segment_count": 1,
+        "avg_segment_length": 3.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 37.34676480585547,
+          "peak": 23175.0,
+          "dynamic_range": 55.855335123008075,
+          "silence_ratio": 0.33232424511202807
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/new-jersey-8_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.2598111828168233,
+        "speech_detection_confidence": 0.974537955597043,
+        "no_speech_probability": 0.025462044402956963,
+        "segment_count": 1,
+        "avg_segment_length": 2.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 35.16712083939806,
+          "peak": 17533.0,
+          "dynamic_range": 53.95438838146194,
+          "silence_ratio": 0.32675557974959174
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/nevada-1_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.4937402407328288,
+        "speech_detection_confidence": 0.6382100284099579,
+        "no_speech_probability": 0.3617899715900421,
+        "segment_count": 1,
+        "avg_segment_length": 3.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 29.068372669557093,
+          "peak": 11401.0,
+          "dynamic_range": 51.87044452529389,
+          "silence_ratio": 0.30760788617567514
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/received-pronunciation-4_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.3649216095606486,
+        "speech_detection_confidence": 0.9759612828493118,
+        "no_speech_probability": 0.02403871715068817,
+        "segment_count": 1,
+        "avg_segment_length": 3.0
+      },
+      "noise_analysis": {
+        "noise_score": 0.3,
+        "noise_level": "medium",
+        "audio_metrics": {
+          "rms": 40.51999758572785,
+          "peak": 25590.0,
+          "dynamic_range": 56.00801750148214,
+          "silence_ratio": 0.5253180406691376
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": true,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/montana-2_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Come and get to cure. Well, here's a story for you. Sarah Perry was a veterinarian nurse who had um...",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.36134039122482825,
+        "speech_detection_confidence": 0.9513762220740318,
+        "no_speech_probability": 0.04862377792596817,
+        "segment_count": 1,
+        "avg_segment_length": 7.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 45.869786205133884,
+          "peak": 10874.0,
+          "dynamic_range": 47.497252254695795,
+          "silence_ratio": 0.22112634645711385
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/oregon-4_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you. Sarah Perry was a veterinary nurse who had been working daily.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.27707202911376955,
+        "speech_detection_confidence": 0.9355668872594833,
+        "no_speech_probability": 0.06443311274051666,
+        "segment_count": 1,
+        "avg_segment_length": 5.5200000000000005
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 27.71546377533,
+          "peak": 16798.0,
+          "dynamic_range": 55.65070853376415,
+          "silence_ratio": 0.1265069690315063
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/ohio-3_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well here's a story for you. Sarah Perry was a veterinarian nurse who made who had been working daily.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.3594995645376352,
+        "speech_detection_confidence": 0.9621270820498466,
+        "no_speech_probability": 0.03787291795015335,
+        "segment_count": 1,
+        "avg_segment_length": 6.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 22.684537576977835,
+          "peak": 30856.0,
+          "dynamic_range": 62.67219390464761,
+          "silence_ratio": 0.17473274822178778
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/north-dakota-1_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you. Sarah Perry was a veterinary nurse who had been working daily at an old zoo in a deserted district of the territory.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.1978523333867391,
+        "speech_detection_confidence": 0.9714609365910292,
+        "no_speech_probability": 0.028539063408970833,
+        "segment_count": 1,
+        "avg_segment_length": 9.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 32.00334035792739,
+          "peak": 22026.0,
+          "dynamic_range": 56.75480649176219,
+          "silence_ratio": 0.21867568604205168
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/nebraska-2_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you. Sarah was a nurse who had been working in the deserted district of the territory for a long time.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.19767160713672638,
+        "speech_detection_confidence": 0.8927596509456635,
+        "no_speech_probability": 0.10724034905433655,
+        "segment_count": 1,
+        "avg_segment_length": 9.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 24.76839670558532,
+          "peak": 32767.0,
+          "dynamic_range": 62.43077572317986,
+          "silence_ratio": 0.21538407894278044
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/pennsylvania-5_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.4405507644017537,
+        "speech_detection_confidence": 0.9041749611496925,
+        "no_speech_probability": 0.09582503885030746,
+        "segment_count": 1,
+        "avg_segment_length": 3.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 34.757728366816856,
+          "peak": 31423.0,
+          "dynamic_range": 59.123925210985306,
+          "silence_ratio": 0.32960026844511553
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/north-carolina-10_whisper.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you. Sarah was a nurse who had been working in the deserted district of the territory for a long time.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.21709111332893372,
+        "speech_detection_confidence": 0.8758462443947792,
+        "no_speech_probability": 0.1241537556052208,
+        "segment_count": 1,
+        "avg_segment_length": 7.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 31.079179367031262,
+          "peak": 27217.0,
+          "dynamic_range": 58.84741420766723,
+          "silence_ratio": 0.24095673206127385
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    },
+    {
+      "file": "all_states_test_audio/sentence_0/alaska-3_transcription.mp3",
+      "whisper_analysis": {
+        "text": " Well, here's a story for you.",
+        "language": "en",
+        "segments": 1
+      },
+      "quality_metrics": {
+        "overall_confidence": -0.4187522331873576,
+        "speech_detection_confidence": 0.9691516682505608,
+        "no_speech_probability": 0.03084833174943924,
+        "segment_count": 1,
+        "avg_segment_length": 3.0
+      },
+      "noise_analysis": {
+        "noise_score": 0,
+        "noise_level": "low",
+        "audio_metrics": {
+          "rms": 28.86991989342729,
+          "peak": 28146.0,
+          "dynamic_range": 59.77942209003892,
+          "silence_ratio": 0.37980789396417935
+        },
+        "indicators": {
+          "low_amplitude": false,
+          "high_silence_ratio": false,
+          "poor_speech_detection": false,
+          "low_confidence": false
+        }
+      },
+      "recommendations": {
+        "overall_quality": "excellent",
+        "suitable_for_analysis": true,
+        "confidence_level": "high",
+        "issues": [],
+        "suggestions": []
+      }
+    }
+  ]
+}
