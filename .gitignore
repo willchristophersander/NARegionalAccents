@@ -3,5 +3,15 @@ audio/
 audio/*
 audio/**/*
 
+# Ignore audio files in datasets
+datasets/*/audio/
+datasets/*/audio/*
+datasets/*/audio/**/*
+
+# Ignore large feature files (can be regenerated)
+features/
+features/*
+features/**/*
+
 # Ignore macOS system files
 .DS_Store
