@@ -13,5 +13,10 @@ features/
 features/*
 features/**/*
 
+# Ignore word segment audio files
+word_segments/
+word_segments/*
+word_segments/**/*
+
 # Ignore macOS system files
 .DS_Store
